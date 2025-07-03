@@ -78,9 +78,9 @@ The final **Excel dashboard** includes:
 
 * A **significant gender imbalance** exists in some regions and departments
 * **Gender pay gaps** were observed in key departments like Production and Admin
-* About **X% of employees** earn below the \$90,000 regulatory threshold (precise % based on data)
+* About **69% of employees** earn below the \$90,000 regulatory threshold (precise % based on data)
 * **Male employees** generally have higher average salaries despite similar performance ratings
-* Regions like **\[insert top region]** have the **largest bonus payouts**
+* Regions like **Kaduna** have the **largest bonus payouts**
 
 ---
 
