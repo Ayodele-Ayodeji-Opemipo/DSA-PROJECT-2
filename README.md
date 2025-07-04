@@ -61,7 +61,7 @@ A second dataset (bonus rules) was also used to compute bonus pay based on emplo
 All analyses were visualized using:
 
 * **Bar Charts** (Gender distribution, Pay bands, Bonus by region)
-* **Pie Charts** (Gender share, Regulatory compliance)
+* **Bar Charts** (Gender share, Regulatory compliance)
 * **Pivot Tables** (Departmental and regional summaries)
 * **Conditional Formatting** (Salary gap indicators)
 
